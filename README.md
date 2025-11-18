@@ -1,4 +1,4 @@
-# Corporate-Layoffs-Analysis-Using-SQL
+# Corporate Layoff Analysis Using SQL
 
 **Overview:**
 This project focuses on analyzing corporate layoff data to uncover patterns, trends, and insights related to layoffs across different companies, locations, and industries. The project is divided into two main phases: Data Cleaning and Exploratory Data Analysis (EDA).
