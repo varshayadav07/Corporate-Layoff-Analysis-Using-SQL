@@ -1,4 +1,4 @@
-# Corporate Layoff Analysis Using SQL
+# Corporate-Layoffs-Analysis-Using-SQL
 
 **Overview:**
 This project focuses on analyzing corporate layoff data to uncover patterns, trends, and insights related to layoffs across different companies, locations, and industries. The project is divided into two main phases: Data Cleaning and Exploratory Data Analysis (EDA).
@@ -47,3 +47,13 @@ To explore the cleaned dataset to identify trends, patterns, and outliers relate
 3. **Yearly and Monthly Analysis:**
    - Analyzed layoffs per year and identified top companies for each year using ranking.
    - Calculated the rolling total of layoffs per month to observe trends over time.
+
+4. **Advanced Queries:**
+   - Used CTEs to rank companies by layoffs each year and calculated rolling totals for more detailed insights.
+
+**Key Findings:**
+
+- **High Impact Layoffs:** Several startups and high-funding companies, like BritishVolt and Quibi, experienced significant layoffs or closures.
+- **Geographical Trends:** Layoffs were observed across various countries with detailed insights into the distribution by location and country.
+- **Industry Insights:** Certain industries, such as "Crypto," were affected by notable layoffs.
+- **Temporal Trends:** Layoffs showed significant trends and patterns when analyzed over years and months, revealing periods of high activity.
